@@ -1,1 +1,1 @@
-This is the original conflict line.
+This line was changed in the conflict-demo branch.
